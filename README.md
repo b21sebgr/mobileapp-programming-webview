@@ -8,7 +8,7 @@ jag få external en external webbsida.
 
 såhär fungerar menyn:
 
-'''
+```
 @Override
 public boolean onOptionsItemSelected(MenuItem item) {
     // Handle action bar item clicks here. The action bar will
@@ -29,7 +29,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
 
     return super.onOptionsItemSelected(item);
 }
-'''
+```
 
 ![](internal.png)
 ![](external.png)
