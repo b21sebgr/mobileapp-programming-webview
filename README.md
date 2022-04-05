@@ -31,4 +31,5 @@ public boolean onOptionsItemSelected(MenuItem item) {
 }
 '''
 
-![](screenshot.png)
+![](internal.png)
+![](external.png)

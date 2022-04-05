@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private WebView myWebView;
 
     public void showExternalWebPage(){
-        myWebView.loadUrl("https://www.google.com");
+        myWebView.loadUrl("https://student.his.se");
     }
 
     public void showInternalWebPage(){
